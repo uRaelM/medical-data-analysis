@@ -1,2 +1,4 @@
 # medical-data-analysis
-Medical Data Analysis and Visualization
+
+
+In this projetct I will analyse medical data and provide visualization with some libarys such as Seaborn
